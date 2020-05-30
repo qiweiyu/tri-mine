@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.4",
+  "name": "TriMine",
+  "uuid": "93ebb8b5-ab49-45c5-8abc-25e5ef467681",
+  "id": "ba37e18b-33cd-4293-be49-ae99141c7c8a",
+  "isNew": false
+}
